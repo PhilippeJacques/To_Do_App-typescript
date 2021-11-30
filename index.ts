@@ -1,6 +1,6 @@
 import app from './src/app'
 import mongoose from './src/db';
-const PORT = 8080
+const PORT = 5000
 
 app.listen(PORT, () => {
     console.log(`Listening on http://localhost:${PORT}`)

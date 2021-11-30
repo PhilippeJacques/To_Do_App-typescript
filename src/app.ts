@@ -1,6 +1,6 @@
-import * as express from 'express'
-import * as morgan from 'morgan'
-import router from './routes'
+import * as express from 'express';
+import * as morgan from 'morgan';
+import router from './routes';
 
 
 const app = express()

@@ -1,6 +1,6 @@
 # To_Do_App-typescript
 
-## 1. Clonse the project
+## 1. Clone the project
 
 ## 2. cd into project
 
